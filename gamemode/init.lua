@@ -7,7 +7,7 @@ else
 	MsgC(Color(0, 255, 100, 255), "[Clockwork] The framework is initializing...\n")
 end
 
-require("cwutil")
+require("fileio")
 
 AddCSLuaFile("external/utf8.lua")
 AddCSLuaFile("cl_init.lua")
