@@ -1,4 +1,4 @@
-CloudAuthX = CWUtil
+CloudAuthX = CloudAuthX or {}
 CloudAuthX.kernel = {}
 
 CLOUDAUTHX_VERSION = -1
